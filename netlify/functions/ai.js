@@ -202,6 +202,43 @@ Live Website:
 https://quizeverse.netlify.app/
 
 
+5. DELIZIA BAKERY
+
+Type:
+Bakery / E-commerce Website
+
+Description:
+Delizia Bakery is a modern and responsive frontend bakery website
+designed to provide users with a complete online shopping experience,
+from discovering products to placing an order.
+
+Features:
+- Modern bakery homepage
+- Cake & dessert categories
+- Product cards
+- Interactive product details
+- Add to cart functionality
+- Dynamic cart calculations
+- Checkout flow
+- Customer information form
+- Payment method selection
+- Order confirmation
+- Responsive design
+- Smooth animations & interactions
+- Modern UI/UX
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+
+GitHub:
+https://github.com/Azeem-Toretto-1/Delizia-Bakery
+
+Live Website:
+https://delizia-bakery.netlify.app/
+
+
 ====================
 SERVICES
 ====================
